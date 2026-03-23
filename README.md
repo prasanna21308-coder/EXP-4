@@ -34,20 +34,60 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+CIRCUIT DIAGRAMS:
 
-Half wave rectifier with filter:
+HALFWAVE RECTIFIER:
 
-Bridge rectifier with filter:
+<img width="499" height="396" alt="image" src="https://github.com/user-attachments/assets/78d935bf-3d42-4092-b0ec-969004ac55e4" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+WITHOUT FILTER:
+
+<img width="698" height="478" alt="Screenshot 2026-02-11 111007" src="https://github.com/user-attachments/assets/73af4e18-f20a-46bd-a91c-a38a90b203ec" />
+
+WITH FILTER:
+
+<img width="772" height="494" alt="Screenshot 2026-02-11 112427" src="https://github.com/user-attachments/assets/ae0dc138-1869-4548-ab8d-a1947a888c7a" />
+
+FULLWAVE RECTIFIER:
+
+<img width="499" height="426" alt="image" src="https://github.com/user-attachments/assets/aff72ecc-8380-42de-861d-3e821540c6a9" />
+
+WITHOUT FILTER:
+
+<img width="854" height="551" alt="Screenshot 2026-02-11 113636" src="https://github.com/user-attachments/assets/f7f23967-92e4-482e-a887-f62cf7fa84b4" />
+
+WITH FILTER:
+
+<img width="921" height="562" alt="Screenshot 2026-02-11 114637" src="https://github.com/user-attachments/assets/76659a62-76f1-4fc5-bca0-08c7e25d49dd" />
+
+
+TABULAR COLUMN:
+
+HALFWAVE RECTIFIER:
+
+<img width="465" height="133" alt="image" src="https://github.com/user-attachments/assets/521c3791-ff34-4706-a0ee-343f8833a922" />
+
+
+FULLWAVE RECTIFIER:
+
+<img width="448" height="124" alt="image" src="https://github.com/user-attachments/assets/8e52629e-34b1-486d-9832-92222887f659" />
+
+
 
 WAVEFORM:
 
+HALFWAVE RECTIFIER:
+
+<img width="1376" height="876" alt="Screenshot 2026-02-11 110833" src="https://github.com/user-attachments/assets/092aa841-1601-467d-8402-6727a151eae4" />
+<img width="1374" height="876" alt="Screenshot 2026-02-11 112832" src="https://github.com/user-attachments/assets/18d6efd8-de92-4c37-9859-b23895e1ce64" />
+
+FULL RECTIFIER:
+
+<img width="1375" height="876" alt="Screenshot 2026-02-11 113821" src="https://github.com/user-attachments/assets/356f44c7-ce6a-4682-94b6-083dc3ef351d" />
+<img width="1367" height="838" alt="Screenshot 2026-02-25 113633" src="https://github.com/user-attachments/assets/396e8ebd-5dff-4ab1-9235-35bf9ee4da4f" />
+
 
 RESULT:
+
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
